@@ -1,2 +1,2 @@
-# ansible-role-perfsonar-centralmanagement
-Install and configure perfSONAR's centralmanagement package
+# ansible-role-perfsonar-archive
+Install and manage a perfSONAR Measurement Archive

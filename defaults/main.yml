@@ -1,0 +1,4 @@
+---
+# defaults file for perfsonar-archive
+
+perfsonar_archive_auth_ip_list: []
